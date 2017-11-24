@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: cd3fd2c9822258443bf21527f175f161
+timeCreated: 1510841194
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone03
+    100002: Bone52
+    100004: browpoint_01
+    100006: browpoint_02
+    100008: browpoint_03
+    100010: browpoint_04
+    100012: browpoint_05
+    100014: //RootNode
+    100016: Circle02
+    100018: Circle03
+    100020: Circle04
+    100022: Circle06
+    100024: Circle07
+    100026: Circle08
+    100028: Circle09
+    100030: Circle10
+    100032: Dummy01
+    100034: Dummy03
+    100036: Dummy04
+    100038: Dummy05
+    100040: Dummy06
+    100042: Dummy08
+    100044: Dummy09
+    100046: Dummy11
+    100048: Dummy_L_Shoulder
+    100050: Eyes_Lookat
+    100052: FK_L_Bicep
+    100054: FK_L_Forearm
+    100056: FK_L_Hand
+    100058: FK_R_Bicep
+    100060: FK_R_Forearm
+    100062: FK_R_Hand
+    100064: Head
+    100066: IK Chain01
+    100068: IK Chain02
+    100070: IK Chain03
+    100072: IK Chain04
+    100074: IK Chain05
+    100076: IK Chain06
+    100078: IK L_Arm_Chain
+    100080: IK L_Arm_Chain01
+    100082: IK_L_armendebone
+    100084: IK_L_armendebone01
+    100086: IK_L_Bicep
+    100088: IK_L_Bicep01
+    100090: IK_L_Forearm
+    100092: IK_L_Forearm01
+    100094: IK_L_Hand
+    100096: IK_L_Hand01
+    100098: Jaw
+    100100: L_Ankle
+    100102: L_Arm_FK/IK Switch
+    100104: L_Arm_Swivle
+    100106: L_Bicep
+    100108: L_Bottom_Eyelid
+    100110: L_Brow
+    100112: L_Ear
+    100114: L_Eye
+    100116: L_Eye_ctrl
+    100118: L_eye_dummy
+    100120: L_eye_Lookat2
+    100122: L_Eyebrow_Controll
+    100124: L_Eyebrow_dummy
+    100126: L_Foot_groundhelper
+    100128: L_Forearm
+    100130: L_fourth01
+    100132: L_fourth02
+    100134: L_fourth03
+    100136: L_Hand
+    100138: L_IK_Leg_Controll
+    100140: L_Index1
+    100142: L_Index2
+    100144: L_Index3
+    100146: L_Leg_Swivle
+    100148: L_Lower_Leg
+    100150: L_middle01
+    100152: L_middle02
+    100154: L_middle03
+    100156: L_Pinky01
+    100158: L_Pinky02
+    100160: L_Pinky03
+    100162: L_Shoulder
+    100164: L_Thumb1
+    100166: L_Thumb2
+    100168: L_Thumb3
+    100170: L_Toe
+    100172: L_Top_Eyelid
+    100174: L_Upper_Leg
+    100176: LowMax_1_01
+    100178: MergeSelectionSetsHelper
+    100180: Neck_Cntrl
+    100182: Pelvis_Cntrl
+    100184: Point03
+    100186: Point04
+    100188: Point05
+    100190: Point06
+    100192: Point11
+    100194: Point12
+    100196: Point13
+    100198: Point14
+    100200: Point15
+    100202: Point16
+    100204: R_Ankle
+    100206: R_Arm_FK/IK Switch
+    100208: R_Arm_Swivle
+    100210: R_Bicep
+    100212: R_Bottom_Eyelid
+    100214: R_Brow
+    100216: R_Ear
+    100218: R_Eye
+    100220: R_Eye_ctrl
+    100222: R_eye_dummy
+    100224: R_Eyebrow_Controll
+    100226: R_Eyebrow_dummy
+    100228: R_eyebrow_point00
+    100230: R_eyebrow_point01
+    100232: R_eyebrow_point02
+    100234: R_eyebrow_point03
+    100236: R_eyebrow_point04
+    100238: R_Foot_groundhelper
+    100240: R_Forearm
+    100242: R_Fourth01
+    100244: R_Fourth02
+    100246: R_Fourth03
+    100248: R_IK_Leg_Controll
+    100250: R_Index01
+    100252: R_Index02
+    100254: R_Index03
+    100256: R_Leg_Swivle
+    100258: R_Lower_Leg
+    100260: R_Middle01
+    100262: R_Middle02
+    100264: R_Middle03
+    100266: R_Pinky01
+    100268: R_Pinky02
+    100270: R_Pinky03
+    100272: R_Shoulder
+    100274: R_Shoulder_Fix
+    100276: R_Thumb01
+    100278: R_Thumb02
+    100280: R_Thumb03
+    100282: R_Toe
+    100284: R_Top_Eyelid
+    100286: R_Upper_Leg
+    100288: RL_Hand
+    100290: Root_Cntrl
+    100292: Spine1_Cntrl
+    100294: Spine2_Cntrl
+    100296: Spine3_Cntrl
+    100298: teeth
+    100300: Text01
+    100302: Text02
+    100304: Text03
+    100306: Text04
+    100308: Text05
+    100310: Text06
+    100312: Text07
+    100314: Text08
+    400000: Bone03
+    400002: Bone52
+    400004: browpoint_01
+    400006: browpoint_02
+    400008: browpoint_03
+    400010: browpoint_04
+    400012: browpoint_05
+    400014: //RootNode
+    400016: Circle02
+    400018: Circle03
+    400020: Circle04
+    400022: Circle06
+    400024: Circle07
+    400026: Circle08
+    400028: Circle09
+    400030: Circle10
+    400032: Dummy01
+    400034: Dummy03
+    400036: Dummy04
+    400038: Dummy05
+    400040: Dummy06
+    400042: Dummy08
+    400044: Dummy09
+    400046: Dummy11
+    400048: Dummy_L_Shoulder
+    400050: Eyes_Lookat
+    400052: FK_L_Bicep
+    400054: FK_L_Forearm
+    400056: FK_L_Hand
+    400058: FK_R_Bicep
+    400060: FK_R_Forearm
+    400062: FK_R_Hand
+    400064: Head
+    400066: IK Chain01
+    400068: IK Chain02
+    400070: IK Chain03
+    400072: IK Chain04
+    400074: IK Chain05
+    400076: IK Chain06
+    400078: IK L_Arm_Chain
+    400080: IK L_Arm_Chain01
+    400082: IK_L_armendebone
+    400084: IK_L_armendebone01
+    400086: IK_L_Bicep
+    400088: IK_L_Bicep01
+    400090: IK_L_Forearm
+    400092: IK_L_Forearm01
+    400094: IK_L_Hand
+    400096: IK_L_Hand01
+    400098: Jaw
+    400100: L_Ankle
+    400102: L_Arm_FK/IK Switch
+    400104: L_Arm_Swivle
+    400106: L_Bicep
+    400108: L_Bottom_Eyelid
+    400110: L_Brow
+    400112: L_Ear
+    400114: L_Eye
+    400116: L_Eye_ctrl
+    400118: L_eye_dummy
+    400120: L_eye_Lookat2
+    400122: L_Eyebrow_Controll
+    400124: L_Eyebrow_dummy
+    400126: L_Foot_groundhelper
+    400128: L_Forearm
+    400130: L_fourth01
+    400132: L_fourth02
+    400134: L_fourth03
+    400136: L_Hand
+    400138: L_IK_Leg_Controll
+    400140: L_Index1
+    400142: L_Index2
+    400144: L_Index3
+    400146: L_Leg_Swivle
+    400148: L_Lower_Leg
+    400150: L_middle01
+    400152: L_middle02
+    400154: L_middle03
+    400156: L_Pinky01
+    400158: L_Pinky02
+    400160: L_Pinky03
+    400162: L_Shoulder
+    400164: L_Thumb1
+    400166: L_Thumb2
+    400168: L_Thumb3
+    400170: L_Toe
+    400172: L_Top_Eyelid
+    400174: L_Upper_Leg
+    400176: LowMax_1_01
+    400178: MergeSelectionSetsHelper
+    400180: Neck_Cntrl
+    400182: Pelvis_Cntrl
+    400184: Point03
+    400186: Point04
+    400188: Point05
+    400190: Point06
+    400192: Point11
+    400194: Point12
+    400196: Point13
+    400198: Point14
+    400200: Point15
+    400202: Point16
+    400204: R_Ankle
+    400206: R_Arm_FK/IK Switch
+    400208: R_Arm_Swivle
+    400210: R_Bicep
+    400212: R_Bottom_Eyelid
+    400214: R_Brow
+    400216: R_Ear
+    400218: R_Eye
+    400220: R_Eye_ctrl
+    400222: R_eye_dummy
+    400224: R_Eyebrow_Controll
+    400226: R_Eyebrow_dummy
+    400228: R_eyebrow_point00
+    400230: R_eyebrow_point01
+    400232: R_eyebrow_point02
+    400234: R_eyebrow_point03
+    400236: R_eyebrow_point04
+    400238: R_Foot_groundhelper
+    400240: R_Forearm
+    400242: R_Fourth01
+    400244: R_Fourth02
+    400246: R_Fourth03
+    400248: R_IK_Leg_Controll
+    400250: R_Index01
+    400252: R_Index02
+    400254: R_Index03
+    400256: R_Leg_Swivle
+    400258: R_Lower_Leg
+    400260: R_Middle01
+    400262: R_Middle02
+    400264: R_Middle03
+    400266: R_Pinky01
+    400268: R_Pinky02
+    400270: R_Pinky03
+    400272: R_Shoulder
+    400274: R_Shoulder_Fix
+    400276: R_Thumb01
+    400278: R_Thumb02
+    400280: R_Thumb03
+    400282: R_Toe
+    400284: R_Top_Eyelid
+    400286: R_Upper_Leg
+    400288: RL_Hand
+    400290: Root_Cntrl
+    400292: Spine1_Cntrl
+    400294: Spine2_Cntrl
+    400296: Spine3_Cntrl
+    400298: teeth
+    400300: Text01
+    400302: Text02
+    400304: Text03
+    400306: Text04
+    400308: Text05
+    400310: Text06
+    400312: Text07
+    400314: Text08
+    2300000: Eyes_Lookat
+    2300002: Head
+    2300004: IK_L_Hand
+    2300006: IK_L_Hand01
+    2300008: Jaw
+    2300010: L_Arm_Swivle
+    2300012: L_Bottom_Eyelid
+    2300014: L_Ear
+    2300016: L_Eye
+    2300018: L_Eye_ctrl
+    2300020: L_Top_Eyelid
+    2300022: R_Arm_Swivle
+    2300024: R_Bottom_Eyelid
+    2300026: R_Ear
+    2300028: R_Eye
+    2300030: R_Eye_ctrl
+    2300032: R_Top_Eyelid
+    2300034: teeth
+    3300000: Eyes_Lookat
+    3300002: Head
+    3300004: IK_L_Hand
+    3300006: IK_L_Hand01
+    3300008: Jaw
+    3300010: L_Arm_Swivle
+    3300012: L_Bottom_Eyelid
+    3300014: L_Ear
+    3300016: L_Eye
+    3300018: L_Eye_ctrl
+    3300020: L_Top_Eyelid
+    3300022: R_Arm_Swivle
+    3300024: R_Bottom_Eyelid
+    3300026: R_Ear
+    3300028: R_Eye
+    3300030: R_Eye_ctrl
+    3300032: R_Top_Eyelid
+    3300034: teeth
+    4300000: IK_L_Hand01
+    4300002: Head
+    4300004: R_Ear
+    4300006: L_Ear
+    4300008: Jaw
+    4300010: L_Eye_ctrl
+    4300012: L_Eye
+    4300014: L_Top_Eyelid
+    4300016: L_Bottom_Eyelid
+    4300018: R_Eye_ctrl
+    4300020: R_Eye
+    4300022: R_Top_Eyelid
+    4300024: R_Bottom_Eyelid
+    4300026: teeth
+    4300028: L_Brow
+    4300030: R_Brow
+    4300032: IK_L_Hand
+    4300034: L_Arm_Swivle
+    4300036: R_Arm_Swivle
+    4300038: Eyes_Lookat
+    9500000: //RootNode
+    13700000: L_Brow
+    13700002: R_Brow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowMax
+    second: {fileID: 2100000, guid: 3d6e4c6121909ad4783c27ccb33a6a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 602ddda7ac80e2d4db181ac4623544dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: b3bc096981892564f91b0d7f17a4d67e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1025a05898d7dbe43a7b97ca32743f9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brows
+    second: {fileID: 2100000, guid: c750ac21b5752e945bea4ba339e949e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: d202861f62ba5ec4fa5162d5733b1467, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
